@@ -1,0 +1,1 @@
+May the best code be ours and mechanics will work, **WITHOUT: CHAIN.DESTROY**
